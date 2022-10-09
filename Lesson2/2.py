@@ -1,0 +1,10 @@
+print('Enter 4 numbers')
+one = input()
+two = input()
+three = input()
+four = input()
+h = int(one) + int(two)
+k = int(three) + int(four)
+z = int(h) / int(k)
+print('Answer ',z)
+
