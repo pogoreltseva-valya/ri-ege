@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6bdbbde-3a04-4fa8-85fe-c6d4f09d0b5d" name="Changes" comment="Lesson1">
-      <change afterPath="$PROJECT_DIR$/intensive/4.py" afterDir="false" />
+    <list default="true" id="f6bdbbde-3a04-4fa8-85fe-c6d4f09d0b5d" name="Changes" comment="Intensive">
+      <change afterPath="$PROJECT_DIR$/intensive/5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665334126174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Intensive">
+      <created>1665420541079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665420541079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson1" />
+    <MESSAGE value="Intensive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intensive" />
   </component>
 </project>
