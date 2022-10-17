@@ -1,10 +1,10 @@
 print('enter room temperature')
-a = int(input())
+t = int(input())
 print('enter the humidity in the room')
-n = int(input())
+v = int(input())
 print('enter the set temperature in the room')
 k = int(input())
-if a > 20 and n < 80 and a > k:
+if v <= 80 and t > k:
     print('on')
 else:
     print('off')
