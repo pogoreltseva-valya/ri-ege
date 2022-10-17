@@ -1,10 +1,10 @@
 print('Enter the number')
 a = int(input())
 k = a % 2
-if k == 0:
-    print('the first')
-else:
+if k == 0 :
     print('second')
+else:
+    print('the first')
 
 
 
