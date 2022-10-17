@@ -5,3 +5,10 @@ v = input()
 b = input()
 k = input()
 print(v,b,k,sep=d)
+
+
+
+
+
+
+
