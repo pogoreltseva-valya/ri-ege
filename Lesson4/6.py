@@ -12,8 +12,22 @@ if b<n<a:
     print(b,n,a)
 if n<b<a:
     print(n<b<a)
-else:
+if n<a<b:
     print(n,a,b)
+if a == b and a<n:
+    print(a,b,n)
+if a == n and a<b:
+    print(a,n,b)
+if b == n and b<a:
+    print(b,n,a)
+if a == b and a>n:
+    print(n,b,a)
+if a == n and a>b:
+    print(b,a,n)
+if b == n and b>a:
+    print(a,b,n)
+if a == b == n:
+    print(a,b,n)
 
 
 
