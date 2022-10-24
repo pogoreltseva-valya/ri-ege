@@ -1,7 +1,7 @@
 print('Enter seat number')
-n = int(input())
-c = n/4
-if c % 1 == 0:
-    print(c)
+number = int(input())
+coupe = number/4
+if coupe % 1 == 0:
+    print(coupe)
 else :
-    print(c//1 + 1)
+    print(coupe//1 + 1)
