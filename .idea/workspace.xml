@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6bdbbde-3a04-4fa8-85fe-c6d4f09d0b5d" name="Changes" comment="Intensive">
-      <change afterPath="$PROJECT_DIR$/intensive/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/задание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intensive/15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intensive/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/intensive/10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/задание.py" beforeDir="false" afterPath="$PROJECT_DIR$/задание.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666454437821</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Intensive">
+      <created>1666639723083</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666639723083</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Intensive">
+      <created>1666639777717</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666639777717</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
