@@ -17,3 +17,13 @@ elif a1 < a2 and a2 == b1:
 elif a2 < a1 and a1 == b2:
     answer = (a1)
 print(answer)
+
+
+
+
+
+
+
+
+
+
